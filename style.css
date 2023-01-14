@@ -1,0 +1,25 @@
+.heading{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: lightyellow;
+}
+
+.note {
+    color: moccasin;
+}
+
+canvas {
+    border: 5px solid plum;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px palevioletred;
+}
+
+.copy_right_footer {
+    bottom: 0;
+    width: 100%;
+    background-color: crimson;
+    color: bisque;
+    font-weight: bold;
+    line-height: 2;
+    position: fixed;
+}
