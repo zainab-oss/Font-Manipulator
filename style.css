@@ -1,3 +1,8 @@
+h1{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 .heading{
     font-family: sans-serif;
     font-weight: bold;
@@ -9,7 +14,7 @@
 }
 
 canvas {
-    border: 5px solid plum;
+    border: 5px solid peachpuff;
     border-radius: 20px;
     box-shadow: 5px 5px 5px palevioletred;
 }
